@@ -58,6 +58,7 @@
             android:id="@+id/TenTV1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="Nguyễn Thành Phát"
             android:textSize="18sp"
             android:textColor="#757575" />
 
@@ -72,6 +73,7 @@
             android:id="@+id/MaTV1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="22115053122328"
             android:textSize="16sp"
             android:textColor="#757575" />
     </LinearLayout>
@@ -97,6 +99,7 @@
             android:id="@+id/TenTV2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="Võ Tấn Dũng"
             android:textSize="18sp"
             android:textColor="#757575" />
 
@@ -111,6 +114,7 @@
             android:id="@+id/MaTV2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="22115053122311"
             android:textSize="16sp"
             android:textColor="#757575" />
     </LinearLayout>
@@ -136,6 +140,7 @@
             android:id="@+id/TenTV3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="Nguyễn Đình Tuấn"
             android:textSize="18sp"
             android:textColor="#757575" />
 
@@ -150,6 +155,7 @@
             android:id="@+id/MaTV3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="22115053122351"
             android:textSize="16sp"
             android:textColor="#757575" />
     </LinearLayout>
